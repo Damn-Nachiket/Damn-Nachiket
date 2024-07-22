@@ -4,6 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
+<p align="center">
+  <img src="https://media.tenor.com/WSZBOHSWn9kAAAAM/oriwara-maymaycore.gif" alt="Header GIF">
+</p>
+
 I'm a passionate developer who loves working with modern technologies.
 
 * 🌍  I'm based in INDIA
